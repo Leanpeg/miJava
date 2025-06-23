@@ -1,6 +1,6 @@
  public class HolaMundo {
   public static void main(String[] args) {
-     System.out.println("Lenin_perez_Guzman - Carnet 2025-1928U");
+     System.out.println("Saludos al profe Larios desde feature-saludoprofe");
      String nombre = "Estudiante";
      int a = 10;
      int b = 7;
